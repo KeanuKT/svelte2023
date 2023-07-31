@@ -1,3 +1,10 @@
+<script>
+  import Header from '$lib/Header.svelte';
+</script>
+
+<Header/>
+<Header/>
+<Header/>
 <nav>
 	<a href="/">HOME</a>
 	<a href="/about">ABOUT</a>
